@@ -1,0 +1,14 @@
+{
+  "name": "angular.breeze.storagewip",
+  "homepage": "https://github.com/johnpapa/angular.breeze.storagewip",
+  "version": "1.0.3",
+  "_release": "1.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.3",
+    "commit": "3c2f03223e2df8cb54764d30e2da0ad0f6eb0e49"
+  },
+  "_source": "git://github.com/johnpapa/angular.breeze.storagewip.git",
+  "_target": "~1.0.3",
+  "_originalSource": "angular.breeze.storagewip"
+}
